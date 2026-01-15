@@ -7,7 +7,7 @@
 Xiaoshan Huang, **Jie Gao**, Haolun Wu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bYeDVu8AAAAJ&authuser=2&citation_for_view=bYeDVu8AAAAJ:zYLM7Y9cAGgC) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Grounded in SSRL theory, this paper introduces SSRLBot, an LLM- based agent designed to enable team members to reflect on their diagnostic performance and the key SSRL skills that foster team success.  
 </div>
 </div>
 
