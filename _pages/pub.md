@@ -1,5 +1,5 @@
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2025</div><img src='images/Flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://arxiv.org/pdf/2505.00945)
