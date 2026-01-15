@@ -1,4 +1,16 @@
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://arxiv.org/pdf/2505.00945)
+
+Xiaoshan Huang, **Jie Gao**, Haolun Wu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bYeDVu8AAAAJ&authuser=2&citation_for_view=bYeDVu8AAAAJ:zYLM7Y9cAGgC) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 **Peer-Reviewed Article Publications & Conference Proceedings**
 - Huang, X., **Gao, J.**, & Wu, H. (2025). [SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://link.springer.com/chapter/10.1007/978-3-031-99264-3_8). Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy.
 - **Gao, J.**, & Li, S. (2025). [Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education](https://journals.lib.unb.ca/index.php/antistasis/article/download/34578/1882530293). Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
