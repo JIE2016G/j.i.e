@@ -10,6 +10,7 @@
 - *2021.11 - 2022.08*, **Business Intelligence Specialist**, LingoAce, *Beijing*
 - *2020.06 - 2022.11*, **Senior Data Analyst**, Moonshot Academy, *Beijing*
 - *2018.06 - 2020.06*, **Data Scientist**, Educational Alliance, *New York*
+- *2018.06 - 2018.12*, **Data Analyst**, Read to Lead, *New York*
 - *2018.01 - 2018.05*, **Research Assistant**, Kindness.org, *New York*
 - *2017.09 - 2018.05*, **Data Analyst Intern**, McGraw Hill, *New York*
 - *2016.09 - 2018.05*, **Research Assistant**, Teachers College, Columbia University, *New York*
