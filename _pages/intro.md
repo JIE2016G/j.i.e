@@ -2,7 +2,7 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 
 # 🔥 News
 - *2026.2*: &nbsp;🏆🏆 Our paper has been accepted to <a href='https://www.aera.net/AERA2026'>AERA 2026</a> and selected as the Winner of the Graduate Student Award by the Studying and Self-Regulated Learning SIG.
-- *2025.12*: &nbsp;✏️✏️ Two short papers and one workshop have been accepted at <a href='https://www.solaresearch.org/events/lak/lak26/'>LAK '26</a>
+- *2025.12*: &nbsp;✏️✏️ Two short papers and <a href='https://charles-lang.github.io/measures-metrics-LAK26/'>one workshop</a> have been accepted at <a href='https://www.solaresearch.org/events/lak/lak26/'>LAK '26</a>
 - *2025.11*: &nbsp;🍏🍏 My latest research paper, <a href='https://doi.org/10.1007/s10763-025-10617-z'>A Systematic Review and Meta-Analysis of Digital Mathematics Interventions for K-12 Students with Mathematical Learning Disabilities</a>, has been published.
 - *2025.07*: &nbsp;🤖🤖 I will present at the <a href='https://aied2025.itd.cnr.it'> 26th International Conference on Artificial Intelligence in Education </a>(AIED) in Palermo, Italy (July 23rd, 18:30) to introduce our new AI agent - SSRLBot.
 - *2025.04*: &nbsp;🎉🎉 I've presented at the 2025 AERA Annual Meeting on April 27th, 1:30-3:00pm (The Colorado Convention Center, Floor: Ballroom Level, Four Seasons Ballroom 1). 
