@@ -18,6 +18,7 @@
 [SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://arxiv.org/pdf/2505.00945)
 
 Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
+
 <sup>†</sup>Co-first authors (equal contribution).
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bYeDVu8AAAAJ&authuser=2&citation_for_view=bYeDVu8AAAAJ:zYLM7Y9cAGgC) 
