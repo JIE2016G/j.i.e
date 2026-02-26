@@ -13,6 +13,8 @@ Xiaoshan Huang, **Jie Gao**, Haolun Wu
 </div>
 
 **Peer-Reviewed Article Publications & Conference Proceedings**
+- Wang, T., Li, S., Li, S., Zhang, J., & **Gao, J.** (2026). [Students' use patterns of generative artificial intelligence during problem-solving in an intelligent learning system: Achievement goal orientation matters](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.70059). British Journal of Educational Technology.
+- Alam, S. S., **Gao, J.**, & Dubé, A. K. (2025). A Systematic Review and Meta-Analysis of Digital Mathematics Interventions for K-12 Students with Mathematical Learning Disabilities. International Journal of Science and Mathematics Education, 1-28.
 - Huang, X., **Gao, J.**, & Wu, H. (2025). [SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://link.springer.com/chapter/10.1007/978-3-031-99264-3_8). Proceeding from Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy.
 - **Gao, J.**, & Li, S. (2025). [Can Students Use ChatGPT for Academic Purposes? The Potential and Challenges of Using Large Language Models in Post-Secondary Education](https://journals.lib.unb.ca/index.php/antistasis/article/download/34578/1882530293). Antistasis, 14(1), 144–157. Retrieved from https://journals.lib.unb.ca/index.php/antistasis/article/view/34578
 - **Gao, J.**, & Dubé, A. K. (2024). [Comparison of Learning Experience among Informal Learning APPS](https://www.researchgate.net/profile/Jie-Gao-170/publication/386380846_Comparison_of_Learning_Experience_among_Informal_Learning_APPS/links/674f5a13876bd177783adc95/Comparison-of-Learning-Experience-among-Informal-Learning-APPS.pdf). In ICERI2024 Proceedings (pp. 337-341). IATED. 10.21125/iceri.2024.0173
@@ -40,4 +42,3 @@ Xiaoshan Huang, **Jie Gao**, Haolun Wu
 **Under Review Articles**
 - Wang, T., Zhang, J., Li, S., **Gao, J.**, Huang, L., & Lajoie, S. P. (submitted). Unravelling dynamic trajectories of epistemic emotions in a technology-enhanced problem-solving task: A multimodal data approach. British Journal of Educational Psychology.
 - Zhang, Y., **Gao, J.**, Huang, X., Li, S., Wu, M., Lin, Y., & Lobczowski, N. G. (under review). The Effectiveness of Technology Integration in Secondary Mathematics: A Meta-Analysis from an Activity Theory Perspective. Manuscript Under Review.
-- Alam, S., **Gao, J.**, & Dubé, A.K. (under review). A Systematic Review and Meta-Analysis of Digital Mathematics Interventions for K-12 Mathematical Learning Disabilities Students. Manuscript Under Review.
