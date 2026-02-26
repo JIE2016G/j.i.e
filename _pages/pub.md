@@ -17,7 +17,8 @@
 
 [SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning](https://arxiv.org/pdf/2505.00945)
 
-Xiaoshan Huang[^eq], **Jie Gao[^eq]**, Haolun Wu
+Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
+<sup>†</sup>Co-first authors (equal contribution).
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bYeDVu8AAAAJ&authuser=2&citation_for_view=bYeDVu8AAAAJ:zYLM7Y9cAGgC) 
 - Grounded in SSRL theory, this paper introduces SSRLBot, an LLM- based agent designed to enable team members to reflect on their diagnostic performance and the key SSRL skills that foster team success.
