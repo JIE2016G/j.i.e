@@ -1,6 +1,6 @@
 # 📝 Publications 
 **Highlights**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2025</div><img src='images/lak26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LAK 2026</div><img src='images/lak26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Investigating Self-regulated Learning Sequences within a Generative AI-based Intelligent Tutoring System](https://arxiv.org/pdf/2601.17000)
