@@ -1,5 +1,17 @@
 # 📝 Publications 
 **Highlights**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2025</div><img src='images/lak26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Investigating Self-regulated Learning Sequences within a Generative AI-based Intelligent Tutoring System](https://arxiv.org/pdf/2601.17000)
+
+**Jie Gao**, Shasha Li, Jianhua Zhang, Shan Li, Tingting Wang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=bYeDVu8AAAAJ&authuser=1&citation_for_view=bYeDVu8AAAAJ:Y0pCki6q_DkC) 
+- In this study, we extracted students' interaction patterns with GenAI from trace data as they completed a problem-solving task within a GenAI-assisted intelligent tutoring system.   
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2025</div><img src='images/Flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
