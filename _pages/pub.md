@@ -28,6 +28,7 @@ Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
 </div>
 
 **Peer-Reviewed Article Publications & Conference Proceedings**
+- Wang, T., Zhang, J., Li, S., Gao, J., Huang, L., & Lajoie, S.P. (2026). [Unravelling dynamic trajectories of epistemic emotions in a technology-enhanced problem-solving task: A multimodal data approach](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.70073). British Journal of Educational Psychology,00, 1-19. https:// doi.org/10.1111/bjep.70073
 - Wang, T., Li, S., Li, S., Zhang, J., & Gao, J. (2026). [Students' use patterns of generative artificial intelligence during problem-solving in an intelligent learning system: Achievement goal orientation matters](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.70059). British Journal of Educational Technology, 00, 1–26. https://doi.org/10.1111/bjet.70059
 - **Gao, J.**, Li, S., Zhang, J., Li, S., & Wang, T. (2026). [Investigating Self-regulated Learning Sequences within a Generative AI-based Intelligent Tutoring System](https://arxiv.org/pdf/2601.17000). Proceeding from the 16th International Learning Analytics & Knowledge Conference, LAK 2026, Bergen, Norway.
 - Alam, S. S., **Gao, J.**, & Dubé, A. K. (2025). [A Systematic Review and Meta-Analysis of Digital Mathematics Interventions for K-12 Students with Mathematical Learning Disabilities](https://link.springer.com/article/10.1007/s10763-025-10617-z). International Journal of Science and Mathematics Education, 1-28.
