@@ -57,5 +57,4 @@ Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
 - **Gao, J.**, Pepe, S., Chen, C. (2017, April). NYC Foster Care Data Challenge Report. Paper. 2017 Authorea NYC Foster Care Data Challenge, New York, U.S..
 
 **Under Review Articles**
-- Wang, T., Zhang, J., Li, S., **Gao, J.**, Huang, L., & Lajoie, S. P. (submitted). Unravelling dynamic trajectories of epistemic emotions in a technology-enhanced problem-solving task: A multimodal data approach. British Journal of Educational Psychology.
 - Zhang, Y., **Gao, J.**, Huang, X., Li, S., Wu, M., Lin, Y., & Lobczowski, N. G. (under review). The Effectiveness of Technology Integration in Secondary Mathematics: A Meta-Analysis from an Activity Theory Perspective. Manuscript Under Review.
