@@ -39,6 +39,8 @@ Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
 - **Gao, J.**, Wei, S., & Dubé, A. (2024). [Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis](https://edtecharchives.org/journal/1269/15691). Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
 
 **Conference Posters and Presentations**
+- **Gao, J.**, Li, S., Zhang, J., Li, S., & Wang, T. (2026, April). Investigating Self-regulated Learning Sequences within a Generative AI-based Intelligent Tutoring System. Paper. 16th International Learning Analytics & Knowledge Conference, LAK 2026, Bergen, Norway.
+- Lang, C., Kong, Y., Gray, G., & **Gao, J.** (2026, April). The Learning Analytics Value Chain. Paper. 16th International Learning Analytics & Knowledge Conference, LAK 2026, Bergen, Norway.
 - **Gao, J.**, Song, Y., Cutumisu, M., & Dubé, A. (2025, April 23-27). The Application of ChatGPT Across Educational Levels: A Systematic Review. Roundtable Session. Annual American Educational Research Association (AERA) Conference, Denver, CO.
 - **Gao, J.** & Dubé, A.K. (2024, November). Comparison of Learning Experience Among Informal Learning Apps. Paper. 17th Annual International Conference of Education, Research and Innovation, Seville, Spain.
 - **Gao, J.**, Huang, X., & Dubé, A.K. (2024, October). Studying Mobile Learning Experience via Text Mining of App Store User Reviews. Poster. AECT International Convention 2024, Kansas City, U.S..
@@ -56,5 +58,6 @@ Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
 - **Gao, J.** (2017, December). Columbia University (CU) Event Platform. Poster. 2017 Teachers College Innovation Award, New York, U.S..
 - **Gao, J.**, Pepe, S., Chen, C. (2017, April). NYC Foster Care Data Challenge Report. Paper. 2017 Authorea NYC Foster Care Data Challenge, New York, U.S..
 
-**Under Review Articles**
-- Zhang, Y., **Gao, J.**, Huang, X., Li, S., Wu, M., Lin, Y., & Lobczowski, N. G. (under review). The Effectiveness of Technology Integration in Secondary Mathematics: A Meta-Analysis from an Activity Theory Perspective. Manuscript Under Review.
+**Workshops**
+- Huang, X., Nguyen, A., **Gao, J.**, Wu, H., Wang, Y., Ahn, T., Jin, T., Azevedo, R., & Lajoie, S. (2026). Multimodal Affect in AI for Education: Design, Application, and Ethical Implications. Workshop. Artificial Intelligence in Education: 27th International Conference, AIED 2026, Seoul, Korea.
+- Lang, C., Gray, G., Cobos, R., Price, D., Park, J., Chen, L., **Gao, J.**, & Huang, X. (2026). The Third Workshop on New Measures & Metrics in Education. Workshop. 16th International Learning Analytics & Knowledge Conference, LAK 2026, Bergen, Norway.
