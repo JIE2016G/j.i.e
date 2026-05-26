@@ -28,6 +28,7 @@ Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
 </div>
 
 **Peer-Reviewed Article Publications & Conference Proceedings**
+- Lang, C., Kong, Y., Gray, G., & **Gao, J.** (2026). [The learning analytics value chain](https://dl.acm.org/doi/full/10.1145/3785022.3785058). Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference, 793–801. https://doi.org/10.1145/3785022.3785058
 - Zhang, Y., **Gao, J.**, Huang, X., Li, S., Wu, M., Lin, Y., & Lobczowski, N. G. (Accepted). The effectiveness of
 technology integration in secondary mathematics: A meta-analysis from an activity theory perspective. Canadian Journal of Science, Mathematics, and Technology Education.
 - Wang, T., Zhang, J., Li, S., **Gao, J.**, Huang, L., & Lajoie, S.P. (2026). [Unravelling dynamic trajectories of epistemic emotions in a technology-enhanced problem-solving task: A multimodal data approach](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.70073). British Journal of Educational Psychology,00, 1-19. https:// doi.org/10.1111/bjep.70073
