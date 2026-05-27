@@ -9,3 +9,4 @@
 - *2024*, **The Most Popular Bot Award**, Coze AI Bot Challenge: Learning Hackathon, ByteDance
 - *2022-2025*, **Graduate Excellence Fellowship**, McGill University
 - *2017*, **EdTech Innovation Award [Top 8]**, Teachers College, Columbia University
+- *2011*, **Google China Social Innovation Cup**,Google
