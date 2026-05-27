@@ -64,3 +64,14 @@ technology integration in secondary mathematics: A meta-analysis from an activit
 **Workshops**
 - Huang, X., Nguyen, A., **Gao, J.**, Wu, H., Wang, Y., Ahn, T., Jin, T., Azevedo, R., & Lajoie, S. (2026). Multimodal Affect in AI for Education: Design, Application, and Ethical Implications. Workshop. Artificial Intelligence in Education: 27th International Conference, AIED 2026, Seoul, Korea.
 - Lang, C., Gray, G., Cobos, R., Price, D., Park, J., Chen, L., **Gao, J.**, & Huang, X. (2026). The Third Workshop on New Measures & Metrics in Education. Workshop. 16th International Learning Analytics & Knowledge Conference, LAK 2026, Bergen, Norway.
+
+# 📃 Publications
+**Journal Reviewer**
+Journal of Education and Information Technologies
+
+**Conference Reviewer**
+- ACL BEA Workshop 2026 Committee Member
+- AIED 2026 Program Committee Member (Main track, Late-breaking Results)
+- AECT 2025/2024/2023
+- ISLS 2025/2024/2023
+- APA 2023
