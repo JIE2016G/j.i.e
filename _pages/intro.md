@@ -1,6 +1,8 @@
 I am a Ph.D. candidate in the Learning Sciences Program at the Department of Educational & Counselling Psychology, McGill University. I am also a researcher at <a href='https://tlclab.owlstown.net'>Technology, Learning, & Cognition Lab</a>. My research focuses on AI in education, learning analytics, adaptive/personalized learning, natural language processing, and large language models. Before pursuing my Ph.D., I had worked as an Educational Data Specialist for five years，supporting many education companies & organizations (McGraw Hill, Read to Lead, Moonshot Academy, LingoAce, etc.) in the U.S. and China. Beyond that, I founded an EdTech community named Tiz EdTech (a member of AWS EdStart) to support 2,000+ educators and 15,000+ followers. 
 
 # 🔥 News
+- *2026.6*：&nbsp;🎉🎉 Two short papers and one workshop were presented at <a href='https://www.aied-conference.org/2026'>AIED'26</a> in Seoul. 
+- were **Best Short Paper Nominees** (2/5) at <a href='https://www.solaresearch.org/events/lak/lak26/'>LAK '26</a>
 - *2026.4*：&nbsp;🍎🍎 Both short papers were **Best Short Paper Nominees** (2/5) at <a href='https://www.solaresearch.org/events/lak/lak26/'>LAK '26</a>
 - *2026.3*: &nbsp;🏎️🏎️ Two short papers (acceptance rate: 15.3%, preprint <a href='https://arxiv.org/abs/2603.25925'>1</a> & <a href='https://arxiv.org/abs/2603.25932'>2</a>) and <a href='https://multimodal-affect-ai4ed.github.io'>one workshop</a> have been accepted at <a href='https://www.aied-conference.org/2026'>AIED 2026</a>
 - *2026.3*: &nbsp;📐📐  New publication in the <a href='https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.70073'>British Journal of Educational Psychology</a>! Check it out~
@@ -9,4 +11,3 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 - *2025.12*: &nbsp;✏️✏️ Two short papers and <a href='https://charles-lang.github.io/measures-metrics-LAK26/'>one workshop</a> have been accepted at <a href='https://www.solaresearch.org/events/lak/lak26/'>LAK '26</a>
 - *2025.11*: &nbsp;🍏🍏 My latest research paper, <a href='https://doi.org/10.1007/s10763-025-10617-z'>A Systematic Review and Meta-Analysis of Digital Mathematics Interventions for K-12 Students with Mathematical Learning Disabilities</a>, has been published.
 - *2025.07*: &nbsp;🤖🤖 I will present at the <a href='https://aied2025.itd.cnr.it'> 26th International Conference on Artificial Intelligence in Education </a>(AIED) in Palermo, Italy (July 23rd, 18:30) to introduce our new AI agent - SSRLBot.
-- *2025.04*: &nbsp;🎉🎉 I've presented at the 2025 AERA Annual Meeting on April 27th, 1:30-3:00pm (The Colorado Convention Center, Floor: Ballroom Level, Four Seasons Ballroom 1). 
