@@ -3,7 +3,6 @@ I am a Ph.D. candidate in the Learning Sciences Program at the Department of Edu
 # 🔥 News
 - *2026.7*：&nbsp;🧩🧩 I am delighted to join <a href='https://radical.vc'>Radical Ventures</a> as an AIFMC Community Ambassador for 2026–2027 (one of five selected).
 - *2026.6*：&nbsp;🎉🎉 Two short papers and one workshop were presented at <a href='https://www.aied-conference.org/2026'>AIED'26</a> in Seoul. 
-- were **Best Short Paper Nominees** (2/5) at <a href='https://www.solaresearch.org/events/lak/lak26/'>LAK '26</a>
 - *2026.4*：&nbsp;🍎🍎 Both short papers were **Best Short Paper Nominees** (2/5) at <a href='https://www.solaresearch.org/events/lak/lak26/'>LAK '26</a>
 - *2026.3*: &nbsp;🏎️🏎️ Two short papers (acceptance rate: 15.3%, preprint <a href='https://arxiv.org/abs/2603.25925'>1</a> & <a href='https://arxiv.org/abs/2603.25932'>2</a>) and <a href='https://multimodal-affect-ai4ed.github.io'>one workshop</a> have been accepted at <a href='https://www.aied-conference.org/2026'>AIED 2026</a>
 - *2026.3*: &nbsp;📐📐  New publication in the <a href='https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.70073'>British Journal of Educational Psychology</a>! Check it out~
