@@ -1,6 +1,7 @@
 # 💻 Work and Research Experience
+- *2026.08 - present*, **AIFMC Community Ambassador**, Radical Ventures, *Montreal* 
 - *2025.10 - present*, **Collaborating Researcher**, Quebec AI Institute (Mila), *Montreal* 
-- *2025.01 - present*, **Senior Data Quality Specialist**, Cohere, *Toronto*
+- *2025.01 - 2026.07*, **Senior Data Quality Specialist**, Cohere, *Toronto*
 - *2024.12 - present*, **Research Assistant**, EMHR, McGill University, *Montreal* 
 - *2024.01 - present*, **Teaching Assistant**, Faculty of Education, McGill University, *Montreal* 
 - *2023.09 - present*, **Affiliate Member**, CREATE Lab, McGill University, *Montreal*
