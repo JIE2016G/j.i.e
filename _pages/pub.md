@@ -28,6 +28,9 @@ Xiaoshan Huang<sup>†</sup>, **Jie Gao<sup>†</sup>**, Haolun Wu
 </div>
 
 **Peer-Reviewed Article Publications & Conference Proceedings**
+- **Gao, J.**, & Dubé, A. K. (2026, June). [Personalizing Mathematical Game-based Learning for Children: A Preliminary Study.](https://arxiv.org/pdf/2603.25925) In International Conference on Artificial Intelligence in Education (pp. 217-225). Cham: Springer Nature Switzerland.
+- **Gao, J.**, Zhang, J., & Chen, D. (2026, June). [To Use or Not to Use: Investigating Student Perceptions of Faculty Generative AI Usage in Higher Education.](https://arxiv.org/pdf/2603.25932) In International Conference on Artificial Intelligence in Education (pp. 215-223). Cham: Springer Nature Switzerland.
+- **Gao, J.**, Li, S., Zhang, J., Li, S., & Wang, T. (2026). [Investigating Self-regulated Learning Sequences within a Generative AI-based Intelligent Tutoring System.](https://dl.acm.org/doi/pdf/10.1145/3785022.3785089) In Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference (pp. 905-911).
 - Lang, C., Kong, Y., Gray, G., & **Gao, J.** (2026). [The learning analytics value chain](https://dl.acm.org/doi/full/10.1145/3785022.3785058). Proceedings of the LAK26: 16th International Learning Analytics and Knowledge Conference, 793–801. https://doi.org/10.1145/3785022.3785058
 - Zhang, Y., **Gao, J.**, Huang, X., Li, S., Wu, M., Lin, Y., & Lobczowski, N. G. (Accepted). The effectiveness of
 technology integration in secondary mathematics: A meta-analysis from an activity theory perspective. Canadian Journal of Science, Mathematics, and Technology Education.
@@ -42,6 +45,8 @@ technology integration in secondary mathematics: A meta-analysis from an activit
 - **Gao, J.**, Wei, S., & Dubé, A. (2024). [Evaluating Learners’ Online Learning Experience of Informal Learning Environments: A LIWC Analysis](https://edtecharchives.org/journal/1269/15691). Journal of Applied Instructional Design. https://doi.org/10.59668/1269.15691
 
 **Conference Posters and Presentations**
+- **Gao, J.** & Dubé, A.K. (2026, June). Personalizing Mathematical Game-based Learning for Children: A Preliminary Study. Paper. 2026 International Conference on Artificial Intelligence in Education, AIED 2026, Seoul, Republic of Korea.
+- **Gao, J.**, Zhang, J., & Chen, D. (2026, June). To Use or Not to Use: Investigating Student Perceptions of Faculty Generative AI Usage in Higher Education. Paper. 2026 International Conference on Artificial Intelligence in Education, AIED 2026, Seoul, Republic of Korea.
 - **Gao, J.**, Li, S., Zhang, J., Li, S., & Wang, T. (2026, April). Investigating Self-regulated Learning Sequences within a Generative AI-based Intelligent Tutoring System. Paper. 16th International Learning Analytics & Knowledge Conference, LAK 2026, Bergen, Norway.
 - Lang, C., Kong, Y., Gray, G., & **Gao, J.** (2026, April). The Learning Analytics Value Chain. Paper. 16th International Learning Analytics & Knowledge Conference, LAK 2026, Bergen, Norway.
 - **Gao, J.**, Song, Y., Cutumisu, M., & Dubé, A. (2025, April 23-27). The Application of ChatGPT Across Educational Levels: A Systematic Review. Roundtable Session. Annual American Educational Research Association (AERA) Conference, Denver, CO.
