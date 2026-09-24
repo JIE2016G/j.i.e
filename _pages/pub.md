@@ -75,6 +75,7 @@ technology integration in secondary mathematics: A meta-analysis from an activit
 - Journal of Education and Information Technologies
 
 **Conference Reviewer**
+- LAK 2027 Program Committee Member
 - ACL BEA Workshop 2026 Committee Member
 - AIED 2026 Program Committee Member (Main track, Late-breaking Results)
 - AECT 2025/2024/2023
